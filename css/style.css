@@ -151,11 +151,11 @@ nav {
 
 /*Image*/
 
-.big-image img {
+.big-image {
     margin: 0;
 }
 
-.big-image {
+.big-image img {
     width: 100%;
     height: 200px;
 }
